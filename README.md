@@ -11,11 +11,11 @@
 
 ### &nbsp;About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Denver.
+I am a Full Stack Developer <img src="https://media1.giphy.com/media/1Aj491qX7K45qZs6EP/giphy.gif?cid=ecf05e47xos77wt4niofqaizcd95kv55fs0wwlxh5y99fb8e&rid=giphy.gif&ct=g" width="30"> from Denver.
 
 [![Linkedin Badge](https://img.shields.io/badge/-JakeDavisCodes-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/JakeDavisCodes)
 
-[![Gmail Badge](https://img.shields.io/badge/-jakedavisemail@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)]
+[Gmail Badge](https://img.shields.io/badge/-jakedavisemail@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)
 
 ---
 
