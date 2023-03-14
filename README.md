@@ -13,7 +13,8 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Denver.
 
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-JakeDavisCodes-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/JakeDavisCodes)
+[![Linkedin Badge](https://img.shields.io/badge/-JakeDavisCodes-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/JakeDavisCodes)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)] jakedavisemail@gmail.com
 
 ---
 
