@@ -15,6 +15,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/1Aj491qX7K45
 
 ![Gmail Badge](https://img.shields.io/badge/-jakedavisemail@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)
 
+[![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jacobrdavis.net)
+
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
